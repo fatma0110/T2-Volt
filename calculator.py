@@ -5,6 +5,10 @@ result = 0
 
 if operator == "-":
     result = num1 - num2
+    print(f"result = {result}")
+
+elif operator == "-":
+    result = num1 - num2
     print(result)
     
 elif operator == '+':
@@ -14,3 +18,8 @@ elif operator == '+':
 elif operator == '/':
     result = num1 / num2
     print(f"result = {result}")
+    
+elif operator =="*":
+    result = num1 * num2
+    print(f"result = {result}")
+    
