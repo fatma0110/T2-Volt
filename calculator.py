@@ -4,7 +4,7 @@ operator= input("enter + - * / ** fac mod ... ")
 
 if operator == "-":
     result = num1 - num2
-    print(f"result = {result}")
+    #print(f"result = {result}")
 result = 0
 
 if operator == '+':
