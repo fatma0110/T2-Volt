@@ -6,3 +6,8 @@ if operator == "-":
     resulte = num1 - num2
 
     print(resulte)
+result = 0
+
+if operator == '+':
+    result = num1 + num2
+    print(f"result = {result}")
